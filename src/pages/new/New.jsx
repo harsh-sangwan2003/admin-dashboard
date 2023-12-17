@@ -3,8 +3,8 @@ import './New.scss'
 
 const New = () => {
   return (
-    <div>
-      
+    <div className='new'>
+      New
     </div>
   )
 }
