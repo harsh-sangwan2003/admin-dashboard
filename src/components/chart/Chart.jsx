@@ -1,12 +1,28 @@
-import React from 'react'
-import './Chart.scss'
+import "./Chart.scss";
+import {
+  AreaChart,
+  Area,
+  XAxis,
+  CartesianGrid,
+  Tooltip,
+  ResponsiveContainer,
+} from "recharts";
 
-const Chart = () => {
+const data = [
+  { name: "January", Total: 1200 },
+  { name: "February", Total: 2100 },
+  { name: "March", Total: 800 },
+  { name: "April", Total: 1600 },
+  { name: "May", Total: 900 },
+  { name: "June", Total: 1700 },
+];
+
+const Chart = ({ aspect, title }) => {
   return (
-    <div>
-      Chart
+    <div className="chart">
+      
     </div>
-  )
-}
+  );
+};
 
-export default Chart
+export default Chart;
