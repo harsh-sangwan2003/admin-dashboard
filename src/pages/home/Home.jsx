@@ -12,7 +12,6 @@ const Home = () => {
             <Sidebar />
             <div className="homeContainer">
                 <Navbar />
-                home container
                 <div className="widgets">
                     <Widget type="user" />
                     <Widget type="order" />
