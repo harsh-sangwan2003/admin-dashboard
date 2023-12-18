@@ -80,7 +80,7 @@ const List = () => {
               <TableCell component="th" scope="row">{row.id}</TableCell>
               <TableCell className="tableCell">
                 <div className="cellWrapper">
-                  <img src={row.img} className="image" />
+                  <img src={row.img} className="image" alt="title" />
                 </div>
               </TableCell>
               <TableCell className="tableCell">{row.product}</TableCell>
