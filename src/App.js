@@ -30,6 +30,7 @@ function App() {
 
           <Route path="/">
             <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Login />} />
             <Route index element={<RequireAuth><Home /></RequireAuth>} />
             <Route path="users">
               <Route index element={<RequireAuth><List /></RequireAuth>} />
