@@ -31,7 +31,7 @@ You may also see any lint errors in the console.
 
 ## Usage
 
-An admin dashboard using React.js: modular, real-time data updates, customizable interface for administrators to monitor, manage, and analyze system aspects efficiently.
+Created an admin dashboard using React.js: modular, with real-time data updates and a customizable interface, enabling administrators to efficiently monitor, manage, and analyze system aspects with a 469ms LCP score.
 
 Click on
 
