@@ -11,7 +11,15 @@ A quick guide to my Project ->
 - React JS
 - react-router-dom
 - JXS
+- Firebase
 - SCSS
+
+
+## Description
+
+- Formulated an admin dashboard using React and Firebase, providing a comprehensive interface for managing and analyzing data.
+
+- Designed a responsive and intuitive UI with SCSS, ensuring a smooth and user-friendly experience for administrators.
 
 # Getting Started with Create React App
 
@@ -28,10 +36,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-## Usage
-
-An admin dashboard using React.js: modular, real-time data updates, customizable interface for administrators to monitor, manage, and analyze system aspects efficiently.
 
 Click on
 
